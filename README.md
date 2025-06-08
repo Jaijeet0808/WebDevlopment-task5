@@ -22,8 +22,7 @@ task5.js --> Product rendering and interactivity
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/jaijeetpaul/mini-ecommerce-capstone.git
+git clone https:[//github.com/jaijeetpaul/mini-ecommerce-capstone.git](https://github.com/Jaijeet0808/WebDevlopment-task5)
 
 2. Open task5.html in your web browser.
 
